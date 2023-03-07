@@ -9,7 +9,7 @@
 title                    : "Yu Shuyan"
 description              : "Yu Shuyan 的主页.中南大学在读博士."
 repository               : "ysyBrenda/ysyBrenda.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false    #true   ysy modify
 
 # google analytics
 google_analytics_id      : #G-SWFCX99KQZ
@@ -88,7 +88,7 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - google_scholar_crawler
+#  - google_scholar_crawler   #ysy delete
   - github_myprofile_updater
 keep_files:
   - .git
