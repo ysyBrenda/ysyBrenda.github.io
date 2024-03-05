@@ -44,10 +44,10 @@ Hao Deng, Xiaofu Huang, Xiancheng Mao, **Shuyan Yu**, Jin Chen, Zhankun Liu, Yan
 - ``Natural Resources Research 2021``  [Spatial Association Between Orogenic Gold Mineralization and Structures Revealed by 3D Prospectivity Modeling: A Case Study of the Xiadian Gold Deposit, Jiaodong Peninsula, China](https://doi.org/10.1007/s11053-021-09956-9)\\
 Zhankun Liu, Jin Chen, Xiancheng Mao, Lei Tang, **Shuyan Yu**, Hao Deng, Jinli Wang, Yuqiao Liu, Shoulei Li, Richard C. Bayless. 
 
-- ``中南大学学报(自然科学版) 2021``  基于注意力卷积神经网络的焦家金矿带三维成矿预测及构造控矿因素定量分析
-邓浩,魏运凤,陈进,刘占坤,**喻姝研**,毛先成 
+- ``中南大学学报(自然科学版) 2021``  基于注意力卷积神经网络的焦家金矿带三维成矿预测及构造控矿因素定量分析  
+邓浩,魏运凤,陈进,刘占坤,**喻姝研**,毛先成
 
-
+  
 
 # 🔧 Professional Skills
 - Strong Mathematical Foundation: Proficient in linear algebra, probability theory, statistics, and basic multivariate calculus.
