@@ -1,7 +1,0 @@
-created by ysy 2023/3/7
-修改导航栏  _data> navigation.yml
-
-暂时想把google爬虫关掉。
-
-主页修改：_pages> about.md  . 以前是用的导入文件式。现在直接手写。
-后续可以参考之前的模板，使用导入文件。导入文件放在_pages /includs ，参考rayeren.github.io-main，并在about.md修改。
