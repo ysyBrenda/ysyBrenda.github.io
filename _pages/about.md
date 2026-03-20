@@ -30,7 +30,7 @@ redirect_from:
 - ``Mathematical Geosciences 2025``  [Expectation–Maximization-Derived Self-distillation Meets Transformer: A Robust Unsupervised Deep Learning Approach for Geochemical Anomaly Recognition](https://doi.org/10.1007/s11004-025-10241-1)\\
 **Shuyan Yu**, Hao Deng, et al.
 
-- ``Natural Resources Research 2024``  [Identification of geochemical anomalies using an end-to-end transformer](https://doi.org/10.1007/s11053-024-10334-4)\\
+- ``Natural Resources Research 2024``  [Identification of Geochemical Anomalies Using an End-to-End Transformer](https://doi.org/10.1007/s11053-024-10334-4)\\
 **Shuyan Yu**, Hao Deng, et al.
   
 - ``Computers & Geosciences 2022``  [Identifying multivariate geochemical anomalies via tensor dictionary learning over spatial-elemental dimensionalities](https://www.sciencedirect.com/science/article/pii/S009830042200108X)\\
